@@ -1,10 +1,10 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Pramod Chaudhari  
 
 💻 .NET Developer with 4+ years of experience in Windows Forms, Web Forms, and SQL.  
 🚀 Currently working as Software Lead, building applications for automotive domains.  
 🔧 Skilled in C#, .NET, SQL, CAN Protocol, and UDS ,TCP and Serial Communication.  
-🌱 Learning WPF & ASP.NET Core to build modern applications.  
+
 
 📫 Connect with me: [LinkedIn](https://linkedin.com/in/pramod-chaudhari-75105b185)
 
