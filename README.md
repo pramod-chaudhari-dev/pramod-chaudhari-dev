@@ -6,7 +6,7 @@
 🔧 Skilled in C#, .NET, SQL, CAN Protocol, and UDS Communication.  
 🌱 Learning WPF & ASP.NET Core to build modern applications.  
 
-📫 Connect with me: [LinkedIn](https://linkedin.com/in/pramod-chaudhari)
+📫 Connect with me: [LinkedIn](https://linkedin.com/in/pramod-chaudhari-75105b185)
 
 
 <!--
